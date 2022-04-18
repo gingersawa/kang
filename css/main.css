@@ -221,6 +221,7 @@ h1 span {
   padding: 10px;
   background-color: transparent;
   font-size: 0;
+  transition: 1s;
 }
 .web_box .img_box:hover {
   background-color: black;
