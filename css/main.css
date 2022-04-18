@@ -229,3 +229,10 @@ h1 span {
   width: 100%;
   border-radius: 10px;
 }
+.link {
+  height: 80vh;
+}
+.link img {
+  width: 50vw;
+  margin: 0 auto;
+}
