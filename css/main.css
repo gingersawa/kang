@@ -232,3 +232,8 @@ h1 span {
 .link {
   height: 80vh;
 }
+.qr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
