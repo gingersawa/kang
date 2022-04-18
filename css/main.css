@@ -230,7 +230,7 @@ h1 span {
   border-radius: 10px;
 }
 .link {
-  height: 80vh;
+  height: 100vh;
 }
 .qr {
   display: flex;
@@ -239,5 +239,6 @@ h1 span {
 }
 .qr img {
   flex: 1;
+
   margin: 20px;
 }
