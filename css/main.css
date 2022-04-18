@@ -237,3 +237,7 @@ h1 span {
   justify-content: center;
   align-items: center;
 }
+.qr img {
+  flex: 1;
+  margin: 20px;
+}
